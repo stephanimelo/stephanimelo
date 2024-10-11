@@ -21,6 +21,7 @@
  
 <div> 
   <a href = "mailto:stephanimelo16@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div>
   <a href="https://www.linkedin.com/in/stephani-melo-77a3482b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
